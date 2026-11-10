@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+dist/
+*.user
+.vs/
+# trop gros pour GitHub (>100 Mo) : livrée dans les releases, voir tools/get-libmpv.ps1
+libmpv-2.dll
